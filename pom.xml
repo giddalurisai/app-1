@@ -42,4 +42,4 @@
         <url>http://34.204.179.165:8081/repository/my-repo</url>
         </snapshotRepository>
         </distributionManagement>
-</project>
+</project.>
